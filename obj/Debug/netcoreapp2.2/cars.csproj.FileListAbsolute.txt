@@ -1,0 +1,11 @@
+C:\Users\Randel\epicodus\C#\cars\obj\Debug\netcoreapp2.2\cars.csprojAssemblyReference.cache
+C:\Users\Randel\epicodus\C#\cars\obj\Debug\netcoreapp2.2\cars.csproj.CoreCompileInputs.cache
+C:\Users\Randel\epicodus\C#\cars\obj\Debug\netcoreapp2.2\cars.AssemblyInfoInputs.cache
+C:\Users\Randel\epicodus\C#\cars\obj\Debug\netcoreapp2.2\cars.AssemblyInfo.cs
+C:\Users\Randel\epicodus\C#\cars\bin\Debug\netcoreapp2.2\cars.deps.json
+C:\Users\Randel\epicodus\C#\cars\bin\Debug\netcoreapp2.2\cars.runtimeconfig.json
+C:\Users\Randel\epicodus\C#\cars\bin\Debug\netcoreapp2.2\cars.runtimeconfig.dev.json
+C:\Users\Randel\epicodus\C#\cars\bin\Debug\netcoreapp2.2\cars.dll
+C:\Users\Randel\epicodus\C#\cars\bin\Debug\netcoreapp2.2\cars.pdb
+C:\Users\Randel\epicodus\C#\cars\obj\Debug\netcoreapp2.2\cars.dll
+C:\Users\Randel\epicodus\C#\cars\obj\Debug\netcoreapp2.2\cars.pdb
