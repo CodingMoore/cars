@@ -15,10 +15,14 @@ public class Program
 
       List<Car> Cars = new List<Car>() { volkswagen, yugo, ford, amc };
 
+      yugo.SetPrice(300);
+
       Console.WriteLine("Enter maximum price:");
       string stringMaxPrice = Console.ReadLine();
       int maxPrice = int.Parse(stringMaxPrice);
-
+      
+      Console.WriteLine(Car.MakeSound(" 'bang'"));
+      
       List<Car> CarsMatchingSearch = new List<Car>(0);
 
       foreach (Car automobile in Cars)
@@ -28,6 +32,7 @@ public class Program
           CarsMatchingSearch.Add(automobile);
         }
       }
+      
       foreach(Car automobile in CarsMatchingSearch)
       {
         Console.WriteLine("_________________");
