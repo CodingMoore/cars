@@ -30,7 +30,10 @@ public class Program
       }
       foreach(Car automobile in CarsMatchingSearch)
       {
+        Console.WriteLine("_________________");
         Console.WriteLine(automobile.GetMakeModel());
+        Console.WriteLine(automobile.GetMiles() + " miles");
+        Console.WriteLine("$" + automobile.GetPrice());
       }
     }
   }
