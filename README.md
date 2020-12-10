@@ -18,6 +18,3 @@ RMGit.it@gmail.com
 GPLv3
 
 Randel Moore © 2020
-
-Co-authored-by: Nataliya Zhuravleva <natalindria@gmail.com>
-Co-authored-by: Svea Wade <svealinneawade@gmail.com>
